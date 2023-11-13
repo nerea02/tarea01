@@ -1,0 +1,45 @@
+.card {
+    padding: 16px;
+    border-radius: 16px;
+    background: #F9F9F9;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.12);
+    width: 190px;
+    height: fit-content;
+}
+
+.title {
+    color: #000;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.subtitle {
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.p {
+    color: #000;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+}
+
+.link {
+    color: #0500FF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    cursor: pointer;
+}

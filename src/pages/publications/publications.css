@@ -1,0 +1,11 @@
+.pubs-container {
+    width: 100%;
+    padding: 16px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 32px;
+}
+
+.container {
+    margin-bottom: 42px;
+}
